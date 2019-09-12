@@ -1,0 +1,113 @@
+F:\DEVELOP\Arkanoid\Arkanoid\bin\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+F:\DEVELOP\Arkanoid\Arkanoid\obj\Release\Arkanoid.Form1.resources
+F:\DEVELOP\Arkanoid\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+F:\DEVELOP\Arkanoid\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+F:\DEVELOP\Arkanoid\Arkanoid\obj\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid\Arkanoid\obj\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid\Arkanoid\obj\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid\Arkanoid\obj\Release\Arkanoid.Form1.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid\Arkanoid\bin\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid\Arkanoid\bin\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid\Arkanoid\obj\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 10 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.Form1.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 10 09\Arkanoid\bin\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 10 09\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 10 09\Arkanoid\bin\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 10 09\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 10 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+F:\DEVELOP\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.Form1.resources
+F:\DEVELOP\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+F:\DEVELOP\Arkanoid 10 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+F:\DEVELOP\Arkanoid 11 09\Arkanoid\bin\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 11 09\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 11 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+F:\DEVELOP\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.Form1.resources
+F:\DEVELOP\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+F:\DEVELOP\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+F:\DEVELOP\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 11 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.Form1.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 11 09\Arkanoid\bin\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 11 09\Arkanoid\bin\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 11 09\Arkanoid\obj\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 12 09\Arkanoid\bin\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 12 09\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 12 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+F:\DEVELOP\Arkanoid 12 09\Arkanoid\obj\Release\Arkanoid.FormArkanoid.resources
+F:\DEVELOP\Arkanoid 12 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+F:\DEVELOP\Arkanoid 12 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+F:\DEVELOP\Arkanoid 12 09\Arkanoid\obj\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 12 09\Arkanoid\obj\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 16 09\Arkanoid\obj\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 16 09\Arkanoid\bin\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 16 09\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 16 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+F:\DEVELOP\Arkanoid 16 09\Arkanoid\obj\Release\Arkanoid.FormArkanoid.resources
+F:\DEVELOP\Arkanoid 16 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+F:\DEVELOP\Arkanoid 16 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+F:\DEVELOP\Arkanoid 16 09\Arkanoid\obj\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\bin\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\bin\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\obj\Release\Arkanoid.FormArkanoid.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\obj\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\obj\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 17 09\Arkanoid\obj\Release\Arkanoid.FormRecord.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\bin\Release\Arkanoid.exe
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\bin\Release\Arkanoid.pdb
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.FormArkanoid.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.FormRecord.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+D:\WORK\ghfhjhjgjknhjkyjfyugtkh\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.FormTableRecs.resources
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\bin\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.FormArkanoid.resources
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.FormRecord.resources
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.FormTableRecs.resources
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 18 09\Arkanoid\obj\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\obj\Release\Arkanoid.FormArkanoid.resources
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\obj\Release\Arkanoid.FormRecord.resources
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\obj\Release\Arkanoid.FormTableRecs.resources
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\obj\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\obj\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\bin\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 19 09\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\bin\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\bin\Release\Arkanoid.pdb
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\obj\Release\ResolveAssemblyReference.cache
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\obj\Release\Arkanoid.FormArkanoid.resources
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\obj\Release\Arkanoid.FormRecord.resources
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\obj\Release\Arkanoid.FormTableRecs.resources
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\obj\Release\Arkanoid.Properties.Resources.resources
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\obj\Release\Arkanoid.csproj.GenerateResource.Cache
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\obj\Release\Arkanoid.exe
+F:\DEVELOP\Arkanoid 18-1 09\Arkanoid\obj\Release\Arkanoid.pdb
